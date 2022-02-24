@@ -1,0 +1,39 @@
+R version 4.1.2 (2021-11-01)
+Platform: x86_64-apple-darwin17.0 (64-bit)
+Running under: macOS Catalina 10.15.7
+
+Matrix products: default
+BLAS:   /System/Library/Frameworks/Accelerate.framework/Versions/A/Frameworks/vecLib.framework/Versions/A/libBLAS.dylib
+LAPACK: /Library/Frameworks/R.framework/Versions/4.1/Resources/lib/libRlapack.dylib
+
+locale:
+[1] en_GB.UTF-8/en_GB.UTF-8/en_GB.UTF-8/C/en_GB.UTF-8/en_GB.UTF-8
+
+attached base packages:
+[1] stats     graphics  grDevices utils     datasets  methods  
+[7] base     
+
+other attached packages:
+[1] ggplot2_3.3.5 dismo_1.3-5   raster_3.5-15 sp_1.4-6     
+
+loaded via a namespace (and not attached):
+ [1] progress_1.2.2    tinytex_0.36      tidyselect_1.1.1 
+ [4] terra_1.5-17      xfun_0.29         purrr_0.3.4      
+ [7] splines_4.1.2     lattice_0.20-45   colorspace_2.0-2 
+[10] vctrs_0.3.8       generics_0.1.2    htmltools_0.5.2  
+[13] mgcv_1.8-38       yaml_2.2.2        utf8_1.2.2       
+[16] XML_3.99-0.8      rlang_1.0.1       pillar_1.7.0     
+[19] withr_2.4.3       DBI_1.1.2         glue_1.6.1       
+[22] rentrez_1.2.3     lifecycle_1.0.1   munsell_0.5.0    
+[25] gtable_0.3.0      codetools_0.2-18  evaluate_0.14    
+[28] labeling_0.4.2    knitr_1.37        fastmap_1.1.0    
+[31] parallel_4.1.2    fansi_1.0.2       Rcpp_1.0.8       
+[34] scales_1.1.1      jsonlite_1.7.3    farver_2.1.0     
+[37] hms_1.1.1         digest_0.6.29     rncl_0.8.4       
+[40] dplyr_1.0.8       grid_4.1.2        cli_3.1.1        
+[43] tools_4.1.2       magrittr_2.0.2    tibble_3.1.6     
+[46] crayon_1.4.2      ape_5.6-1         pkgconfig_2.0.3  
+[49] Matrix_1.3-4      ellipsis_0.3.2    prettyunits_1.1.1
+[52] rstudioapi_0.13   assertthat_0.2.1  rmarkdown_2.11   
+[55] httr_1.4.2        R6_2.5.1          rotl_3.0.12      
+[58] nlme_3.1-153      compiler_4.1.2
